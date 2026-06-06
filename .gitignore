@@ -1,0 +1,12 @@
+node_modules/
+sges.db
+sges.db-shm
+sges.db-wal
+.env
+.env.local
+*.log
+*.db
+.DS_Store
+.vscode/settings.json
+dist/
+build/
